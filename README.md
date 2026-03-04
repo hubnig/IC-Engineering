@@ -16,7 +16,7 @@ Xiaomi Robot Vacuum X20+ - это мощный робот-пылесос с мн
 
 ---
 
-### 2. Визуальная документация
+### 2. Визуальное представление
 
 #### Общий вид
 <img width="450" height="800" alt="image" src="https://github.com/user-attachments/assets/08b69584-1517-4757-8cba-ed522ea02f3b" />
