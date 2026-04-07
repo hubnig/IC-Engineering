@@ -243,3 +243,8 @@ Xiaomi Robot Vacuum X20+ — это мощный робот-пылесос с м
     - FR5.5.4: Обновление прошивки должно выполняться автоматически через Wi-Fi без использования кабеля
     - FR5.5.5: Контейнер для пыли должен извлекаться и очищаться без использования инструментов
 
+https://miro.com/welcomeonboard/Y3NXMFBLbXpLaG82R3BUMW5raHI2NmlZU0pqTTdTVm42eG0vSlZWUU05MWxyemhKb1VEcERTa3RoMDlkeER6TjRKVklVSkl6Z29WQ2FNQkJRUUROUUdaa0pEcU5tNy9iZ2dnd0dnN29QTmZLUlVDQlZzR3FPckdjeHhPQ2E3SVVQdGo1ZEV3bUdPQWRZUHQzSGl6V2NBPT0hdjE=?share_link_id=942094470565
+
+
+
+https://miro.com/app/live-embed/uXjVGpW7ZdU=/?embedMode=view_only_without_ui&moveToViewport=-9904%2C281%2C9957%2C5069&embedId=765936802368
